@@ -10,3 +10,7 @@
  let secondName = "Rana";
  console.log(firstName + " " + secondName);
  ```
+
+- [x] school
+- [x] college
+- [ ] graduate
